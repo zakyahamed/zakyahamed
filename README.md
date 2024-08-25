@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaky Ahamed</h1>
+---
 <h3 align="center">A third year Computer Science and Engineering undergraduate in University of Moratuwa</h3>
 
 - 🔭 I’m currently working on [SecureVision AI](https://github.com/BuddhimaB/SecureVisionAI.git)
