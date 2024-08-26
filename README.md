@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **zakynaleem@gmail.com**
 
+[![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://github.com/zakyahamed/my-repository/raw/main/cv.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zakyahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakyahamed" height="30" width="40" /></a>
