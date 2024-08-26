@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zakynaleem@gmail.com**
 
-Download my CV here: [zakyahamed.cv](https://github.com/zakyahamed/zakyahamed/AhamedMNZ_210023K_CV.pdf)
+Download my CV here: [https://github.com/zakyahamed/zakyahamed/AhamedMNZ_210023K_CV.pdf](https://github.com/zakyahamed/zakyahamed/blob/eb7353dff4f2874c29f55036197f195b93a03d32/AhamedMNZ_210023K_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
