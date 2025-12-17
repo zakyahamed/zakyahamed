@@ -13,7 +13,7 @@
 
 - 🌐 Visit my portfolio site at: [http://zaky-portfolio.vercel.app/](http://zaky-portfolio.vercel.app/)
 
-Download my CV here: [Download CV](https://github.com/zakyahamed/zakyahamed/blob/3a0b39d5a73c1dd72c270e1ac2e2db28b00ee1d1/CV.pdf)
+Download my CV here: [Download CV](https://github.com/zakyahamed/zakyahamed/blob/0def729a62498fd45d68b30334b2bb41bbfca73d/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
