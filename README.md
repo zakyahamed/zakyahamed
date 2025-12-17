@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaky Ahamed</h1>
-<h3 align="center">A third year Computer Science and Engineering undergraduate in University of Moratuwa</h3>
+<h3 align="center">A Final year Computer Science and Engineering undergraduate in University of Moratuwa</h3>
 
 - 🔭 I’m currently working on Advancing Indoor Connectivity (Final Year Project)
 
@@ -13,7 +13,7 @@
 
 - 🌐 Visit my portfolio site at: [http://zaky-portfolio.vercel.app/](http://zaky-portfolio.vercel.app/)
 
-Download my CV here: [Download CV](https://github.com/zakyahamed/zakyahamed/blob/eb7353dff4f2874c29f55036197f195b93a03d32/CV.pdf)
+Download my CV here: [Download CV](https://github.com/zakyahamed/zakyahamed/blob/3a0b39d5a73c1dd72c270e1ac2e2db28b00ee1d1/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
