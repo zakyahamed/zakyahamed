@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **zakynaleem@gmail.com**
 
-- 🌐 Visit me portfolio site at: [http://zaky-portfolio.vercel.app/](http://zaky-portfolio.vercel.app/)
+- 🌐 Visit my portfolio site at: [http://zaky-portfolio.vercel.app/](http://zaky-portfolio.vercel.app/)
 
-Download my CV here: [https://github.com/zakyahamed/zakyahamed/AhamedMNZ_210023K_CV.pdf](https://github.com/zakyahamed/zakyahamed/blob/eb7353dff4f2874c29f55036197f195b93a03d32/AhamedMNZ_210023K_CV.pdf)
+Download my CV here: [Download CV](https://github.com/zakyahamed/zakyahamed/blob/eb7353dff4f2874c29f55036197f195b93a03d32/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
