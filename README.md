@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Zaky Ahamed</h1>
 <h3 align="center">A third year Computer Science and Engineering undergraduate in University of Moratuwa</h3>
 
-- 🔭 I’m currently working on [SecureVision AI](https://github.com/BuddhimaB/SecureVisionAI.git)
+- 🔭 I’m currently working on Advancing Indoor Connectivity (Final Year Project)
 
-- 🌱 I’m currently learning **AWS, NextJS**
+- 🌱 I’m currently learning **Firebase, NextJS, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zakyahamed](https://github.com/zakyahamed)
 
-- 💬 Ask me about **Software development**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **zakynaleem@gmail.com**
+
+- 🌐 Visit me portfolio site at: [http://zaky-portfolio.vercel.app/](http://zaky-portfolio.vercel.app/)
 
 Download my CV here: [https://github.com/zakyahamed/zakyahamed/AhamedMNZ_210023K_CV.pdf](https://github.com/zakyahamed/zakyahamed/blob/eb7353dff4f2874c29f55036197f195b93a03d32/AhamedMNZ_210023K_CV.pdf)
 
